@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\bin\Debug\7.ciclowhile.exe.config
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\bin\Debug\7.ciclowhile.exe
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\bin\Debug\7.ciclowhile.pdb
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\obj\Debug\7.ciclowhile.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\obj\Debug\7.ciclowhile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\obj\Debug\7.ciclowhile.exe
+C:\Users\ASUS\source\repos\7.ciclowhile\7.ciclowhile\obj\Debug\7.ciclowhile.pdb
