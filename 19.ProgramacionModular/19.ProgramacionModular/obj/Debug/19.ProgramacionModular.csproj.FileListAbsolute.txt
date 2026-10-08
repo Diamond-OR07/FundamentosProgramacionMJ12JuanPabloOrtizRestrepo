@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\bin\Debug\19.ProgramacionModular.exe.config
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\bin\Debug\19.ProgramacionModular.exe
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\bin\Debug\19.ProgramacionModular.pdb
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.exe
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.pdb
+C:\Users\ASUS\source\repos\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.exe.config
