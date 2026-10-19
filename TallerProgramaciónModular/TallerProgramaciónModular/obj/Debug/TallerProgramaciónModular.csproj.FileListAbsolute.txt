@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\bin\Debug\TallerProgramaciónModular.exe.config
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\bin\Debug\TallerProgramaciónModular.exe
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\bin\Debug\TallerProgramaciónModular.pdb
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\obj\Debug\TallerProgramaciónModular.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\obj\Debug\TallerProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\obj\Debug\TallerProgramaciónModular.exe
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\obj\Debug\TallerProgramaciónModular.pdb
+C:\Users\ASUS\source\repos\TallerProgramaciónModular\TallerProgramaciónModular\obj\Debug\TallerProgramaciónModular.exe.config
