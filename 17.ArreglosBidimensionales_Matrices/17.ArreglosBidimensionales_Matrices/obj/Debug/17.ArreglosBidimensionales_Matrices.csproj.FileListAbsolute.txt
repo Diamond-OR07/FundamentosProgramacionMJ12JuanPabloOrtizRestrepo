@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\obj\Debug\17.ArreglosBidimensionales_Matrices.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\obj\Debug\17.ArreglosBidimensionales_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\bin\Debug\17.ArreglosBidimensionales_Matrices.exe.config
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\bin\Debug\17.ArreglosBidimensionales_Matrices.exe
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\bin\Debug\17.ArreglosBidimensionales_Matrices.pdb
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\obj\Debug\17.ArreglosBidimensionales_Matrices.exe
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\obj\Debug\17.ArreglosBidimensionales_Matrices.pdb
+C:\Users\ASUS\source\repos\17.ArreglosBidimensionales_Matrices\17.ArreglosBidimensionales_Matrices\obj\Debug\17.ArreglosBidimensionales_Matrices.exe.config
