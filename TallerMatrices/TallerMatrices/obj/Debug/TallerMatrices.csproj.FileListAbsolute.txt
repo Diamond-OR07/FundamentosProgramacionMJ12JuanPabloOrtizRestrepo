@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe.config
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.pdb
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.exe
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.pdb
+C:\Users\ASUS\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.exe.config

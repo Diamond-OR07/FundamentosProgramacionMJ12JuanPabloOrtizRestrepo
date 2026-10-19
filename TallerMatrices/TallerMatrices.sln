@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMatrices", "TallerMatrices\TallerMatrices.csproj", "{B7E5E7E5-6197-4823-9728-6F934654E0F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E5E7E5-6197-4823-9728-6F934654E0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E5E7E5-6197-4823-9728-6F934654E0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E5E7E5-6197-4823-9728-6F934654E0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E5E7E5-6197-4823-9728-6F934654E0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADFD7E0-9E8B-4CC6-9C89-CE62E4B0DD76}
+	EndGlobalSection
+EndGlobal
