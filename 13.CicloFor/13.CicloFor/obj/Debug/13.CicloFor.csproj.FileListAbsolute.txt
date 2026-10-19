@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\bin\Debug\13.CicloFor.exe.config
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\bin\Debug\13.CicloFor.exe
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\bin\Debug\13.CicloFor.pdb
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.exe
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.pdb
+C:\Users\ASUS\source\repos\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.exe.config
