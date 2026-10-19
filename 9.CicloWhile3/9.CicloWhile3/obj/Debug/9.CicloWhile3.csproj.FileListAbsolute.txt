@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\bin\Debug\9.CicloWhile3.exe.config
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\bin\Debug\9.CicloWhile3.exe
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\bin\Debug\9.CicloWhile3.pdb
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.exe
+C:\Users\ASUS\source\repos\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.pdb
