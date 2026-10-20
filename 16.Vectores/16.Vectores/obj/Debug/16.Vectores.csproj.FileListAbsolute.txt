@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\bin\Debug\16.Vectores.exe.config
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\bin\Debug\16.Vectores.exe
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\bin\Debug\16.Vectores.pdb
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\obj\Debug\16.Vectores.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\obj\Debug\16.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\obj\Debug\16.Vectores.exe
+C:\Users\ASUS\source\repos\16.Vectores\16.Vectores\obj\Debug\16.Vectores.pdb
