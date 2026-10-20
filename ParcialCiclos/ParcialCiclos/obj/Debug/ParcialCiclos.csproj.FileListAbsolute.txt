@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\bin\Debug\ParcialCiclos.exe.config
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\bin\Debug\ParcialCiclos.exe
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\bin\Debug\ParcialCiclos.pdb
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.exe
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.pdb
+C:\Users\ASUS\source\repos\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.exe.config
