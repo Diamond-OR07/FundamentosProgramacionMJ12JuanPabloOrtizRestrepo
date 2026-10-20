@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\bin\Debug\Parcial#1Condicionales.exe.config
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\bin\Debug\Parcial#1Condicionales.exe
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\bin\Debug\Parcial#1Condicionales.pdb
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\obj\Debug\Parcial#1Condicionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\obj\Debug\Parcial#1Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\obj\Debug\Parcial#1Condicionales.exe
+C:\Users\B09S104est\Documents\JPOR\FundamentosProgramacionMJ12JuanPabloOrtizRestrepo\Parcial#1Condicionales\Parcial#1Condicionales\obj\Debug\Parcial#1Condicionales.pdb
