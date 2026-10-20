@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\bin\Debug\20.ProgramacionModular.exe.config
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\bin\Debug\20.ProgramacionModular.exe
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\bin\Debug\20.ProgramacionModular.pdb
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.exe
+C:\Users\ASUS\source\repos\20.ProgramacionModular\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.pdb
